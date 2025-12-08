@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /p/
+Disallow: /about-us.html
+Disallow: /contact-us.html
+Disallow: /privacy-policy.html
+Disallow: /terms.html
+Disallow: /disclaimer.html
